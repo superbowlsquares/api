@@ -30,7 +30,6 @@ group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
 
   gem "pry", "~> 0.14.1"
-  gem "pry-byebug", "~> 3.8"
   gem "pry-rails", "~> 0.3.9"
 
   gem "standardrb", "~> 1.0"
